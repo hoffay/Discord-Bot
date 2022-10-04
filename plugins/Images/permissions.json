@@ -1,0 +1,22 @@
+{
+  "global": {
+        "everyone": true,
+      "owner": false,
+    "images": true,
+    "music": true
+  },
+    "users": {
+  "105747712481173504": {               "hoff": {},
+      "owner": true
+    },
+	"217024494106050560": {               "lily": {},
+      "images": true,
+	  "everyone": true
+    },
+
+	"287995574945579018": {               "thegreenbarono": {},
+      "images": false
+    }
+ 
+}
+}

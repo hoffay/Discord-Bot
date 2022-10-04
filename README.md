@@ -1,2 +1,1 @@
-# discord-bot
-Discord bot(Deprecated)
+# Bungus-chungus

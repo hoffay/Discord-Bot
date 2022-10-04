@@ -1,0 +1,7 @@
+{
+  "main": "images.js",
+  "dependencies": {
+    "request": ">=x.x.x",
+	"youtube-node": "1.3.x"
+  }
+}
